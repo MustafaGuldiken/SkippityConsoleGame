@@ -6,10 +6,7 @@
 #define BOARD_SIZE_MAX 20
 #define LETTERS_COUNT 5
 
-//bilgisayara karsi oynanan oyun https://youtu.be/g_-rrPrrCxo
-// Oyunculara Karsi oynanan oyun https://youtu.be/CF2wF5UB80I
-// c kodunun aciklanmasi https://youtu.be/dESL6hlNMvA
-//kısa oyun + oyunun sonlanmasını göremek için videonun son kısmına bakabilirsiniz https://youtu.be/llEvN5mFfMk
+
 
 typedef struct {
     char** board;
